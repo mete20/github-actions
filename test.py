@@ -1,4 +1,5 @@
-
+# test_lint_error.py
+import os  # unused import
 
 def greeting(name):
     print(f"Hello, {name}!")
